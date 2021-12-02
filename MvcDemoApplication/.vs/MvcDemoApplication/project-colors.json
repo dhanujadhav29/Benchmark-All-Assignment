@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "da40d65d-84ee-4b79-b651-677a61dc4bcd": {
+      "ProjectGuid": "da40d65d-84ee-4b79-b651-677a61dc4bcd",
+      "DisplayName": "MvcDemoApplication",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
