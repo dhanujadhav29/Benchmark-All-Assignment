@@ -1,0 +1,53 @@
+﻿@model IEnumerable<MvcCrudApp.Models.DepartmentModel>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <p>
+        @Html.ActionLink("Create New", "InsertDept")
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.dno)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.dname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.location)
+            </th>
+            <th></th>
+        </tr>
+    
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.dno)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.dname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.location)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "UpdateDept", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "DetailsDept", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "DeleteDept", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+    }
+    
+    </table>
+</body>
+</html>

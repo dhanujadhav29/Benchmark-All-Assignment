@@ -1,0 +1,47 @@
+﻿@model MvcCrudApp.Models.DepartmentModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Insert</title>
+</head>
+<body>
+    <div>
+        @using (Html.BeginForm())
+        {
+            <table>
+                <tr>
+                    <td>@Html.DisplayNameFor(model => model.dno)</td>
+                    <td>@Html.EditorFor(model => model.dno)</td>
+                </tr>
+
+                <tr>
+                    <td>@Html.DisplayNameFor(model => model.dname)</td>
+                    <td>@Html.EditorFor(model => model.dname)</td>
+                </tr>
+
+                <tr>
+                    <td>@Html.DisplayNameFor(model => model.location)</td>
+                    <td>@Html.EditorFor(model => model.location)</td>
+                </tr>
+
+                <tr>
+                    <td>
+                        <input type="submit" value="submit" id="submit" />
+                    </td>
+
+                    <td>
+                        @Html.ActionLink("Back To Home Page", "Index")
+                    </td>
+                </tr>
+            </table>
+
+        }
+    </div>
+</body>
+</html>

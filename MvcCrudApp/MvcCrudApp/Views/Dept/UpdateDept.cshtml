@@ -1,0 +1,47 @@
+﻿@model MvcCrudApp.Models.DepartmentModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Update</title>
+</head>
+<body>
+    <div>
+        @using (Html.BeginForm())
+        {
+            <table>
+                <tr>
+                    <td>@Html.DisplayNameFor(model => model.dno)</td>
+                    <td>@Html.EditorFor(model => model.dno,new { id="txtdno"})</td>
+                </tr>
+
+                <tr>
+                    <td>@Html.DisplayNameFor(model => model.dname)</td>
+                    <td>@Html.EditorFor(model => model.dname, new { id = "txtdname" })</td>
+                </tr>
+
+                <tr>
+                    <td>@Html.DisplayNameFor(model => model.location)</td>
+                    <td>@Html.EditorFor(model => model.location, new { id = "txtlocation" })</td>
+                </tr>
+
+                <tr>
+                    <td>
+                        <input type="submit" value="Update" id="submit" />
+                    </td>
+
+                    <td>
+                        @Html.ActionLink("Back To Home Page", "Index")
+                    </td>
+                </tr>
+            </table>
+
+        }
+    </div>
+</body>
+</html>
