@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d91f1b68-f398-4194-a0b0-2a37d6b2a4ac": {
+      "ProjectGuid": "d91f1b68-f398-4194-a0b0-2a37d6b2a4ac",
+      "DisplayName": "EntityFrameWorkCrudApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
