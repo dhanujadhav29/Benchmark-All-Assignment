@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    var data = ViewData["res"] as List<SelectListItem>;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div> 
+        <input type="text" type="text" value="" />
+        @Html.DropDownList("res",@data);
+    </div>
+</body>
+</html>

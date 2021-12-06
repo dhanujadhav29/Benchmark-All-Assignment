@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "377f872a-63af-4fa6-aebc-3a8d453a47dd": {
+      "ProjectGuid": "377f872a-63af-4fa6-aebc-3a8d453a47dd",
+      "DisplayName": "ApiConsumer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
