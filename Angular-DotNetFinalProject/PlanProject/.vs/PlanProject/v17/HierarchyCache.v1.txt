@@ -1,0 +1,298 @@
+﻿++Solution 'PlanProject' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:PlanProject.sln
+++PlanProject
+i:{00000000-0000-0000-0000-000000000000}:PlanProject
+++Properties
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\properties\
+++References
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:
+++App_Data
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\app_data\
+++App_Start
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\app_start\
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\app_start\
+++Areas
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\
+++Content
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\content\
+++Controllers
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\controllers\
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\controllers\
+++HomeController.cs
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\controllers\homecontroller.cs
+++PlanController.cs
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\controllers\plancontroller.cs
+++ValuesController.cs
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\controllers\valuescontroller.cs
+++fonts
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\fonts\
+++Models
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\models\
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\models\
+++Plan.cs
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\models\plan.cs
+++Scripts
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\scripts\
+++Views
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\views\
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\views\
+++favicon.ico
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\favicon.ico
+++Global.asax
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\global.asax
+++Global.asax.cs
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\global.asax.cs
+++packages.config
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\packages.config
+++Web.config
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\web.config
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\views\web.config
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\views\web.config
+++Web.Debug.config
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\web.debug.config
+++Web.Release.config
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\web.release.config
+++AssemblyInfo.cs
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\properties\assemblyinfo.cs
+++Antlr3.Runtime
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:
+++Microsoft.CSharp
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:
+++Microsoft.Web.Infrastructure
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:
+++Newtonsoft.Json
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:
+++System
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:
+++System.ComponentModel.DataAnnotations
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:
+++System.Configuration
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:
+++System.Core
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:
+++System.Data
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:
+++System.Data.DataSetExtensions
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:
+++System.Drawing
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:
+++System.Net.Http
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:
+++System.Net.Http.Formatting
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:
+++System.Net.Http.WebRequest
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:
+++System.Runtime.Serialization
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:
+++System.Web
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:
+++System.Web.Abstractions
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:
+++System.Web.ApplicationServices
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:
+++System.Web.Entity
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:
+++System.Web.Helpers
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:
+++System.Web.Http
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:
+++System.Web.Http.WebHost
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:
+++System.Web.Mvc
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:
+++System.Web.Optimization
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:
+++System.Web.Razor
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:
+++System.Web.Routing
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:
+++System.Web.WebPages
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:
+++System.Web.WebPages.Deployment
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:
+++System.Web.WebPages.Razor
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:
+++System.Xml
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:
+++System.Xml.Linq
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:
+++WebGrease
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:
+++BundleConfig.cs
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\app_start\bundleconfig.cs
+++FilterConfig.cs
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\app_start\filterconfig.cs
+++RouteConfig.cs
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\app_start\routeconfig.cs
+++WebApiConfig.cs
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\app_start\webapiconfig.cs
+++HelpPage
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\
+++bootstrap-theme.css
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\content\bootstrap-theme.css
+++bootstrap-theme.css.map
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\content\bootstrap-theme.css.map
+++bootstrap-theme.min.css
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\content\bootstrap-theme.min.css
+++bootstrap-theme.min.css.map
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\content\bootstrap-theme.min.css.map
+++bootstrap.css
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\content\bootstrap.css
+++bootstrap.css.map
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\content\bootstrap.css.map
+++bootstrap.min.css
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\content\bootstrap.min.css
+++bootstrap.min.css.map
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\content\bootstrap.min.css.map
+++Site.css
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\content\site.css
+++glyphicons-halflings-regular.eot
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\fonts\glyphicons-halflings-regular.eot
+++glyphicons-halflings-regular.svg
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\fonts\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.ttf
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\fonts\glyphicons-halflings-regular.ttf
+++glyphicons-halflings-regular.woff
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\fonts\glyphicons-halflings-regular.woff
+++glyphicons-halflings-regular.woff2
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\fonts\glyphicons-halflings-regular.woff2
+++bootstrap.js
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\scripts\bootstrap.js
+++bootstrap.min.js
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\scripts\bootstrap.min.js
+++jquery-3.4.1.intellisense.js
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\scripts\jquery-3.4.1.intellisense.js
+++jquery-3.4.1.js
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\scripts\jquery-3.4.1.js
+++jquery-3.4.1.min.js
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\scripts\jquery-3.4.1.min.js
+++jquery-3.4.1.min.map
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\scripts\jquery-3.4.1.min.map
+++jquery-3.4.1.slim.js
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\scripts\jquery-3.4.1.slim.js
+++jquery-3.4.1.slim.min.js
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\scripts\jquery-3.4.1.slim.min.js
+++jquery-3.4.1.slim.min.map
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\scripts\jquery-3.4.1.slim.min.map
+++modernizr-2.8.3.js
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\scripts\modernizr-2.8.3.js
+++Home
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\views\home\
+++Shared
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\views\shared\
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\views\shared\
+++_ViewStart.cshtml
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\views\_viewstart.cshtml
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\views\_viewstart.cshtml
+++Bal.cs
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\views\bal.cs
+++Dal.cs
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\views\dal.cs
+++ModelDescriptions
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\modeldescriptions\
+++SampleGeneration
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\samplegeneration\
+++ApiDescriptionExtensions.cs
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\apidescriptionextensions.cs
+++HelpPage.css
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\helppage.css
+++HelpPageAreaRegistration.cs
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\helppagearearegistration.cs
+++HelpPageConfigurationExtensions.cs
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\helppageconfigurationextensions.cs
+++XmlDocumentationProvider.cs
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\xmldocumentationprovider.cs
+++Index.cshtml
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\views\home\index.cshtml
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\views\help\index.cshtml
+++_Layout.cshtml
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\views\shared\_layout.cshtml
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\views\shared\_layout.cshtml
+++Error.cshtml
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\views\shared\error.cshtml
+++HelpPageConfig.cs
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\app_start\helppageconfig.cs
+++HelpController.cs
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\controllers\helpcontroller.cs
+++CollectionModelDescription.cs
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\modeldescriptions\collectionmodeldescription.cs
+++ComplexTypeModelDescription.cs
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\modeldescriptions\complextypemodeldescription.cs
+++DictionaryModelDescription.cs
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\modeldescriptions\dictionarymodeldescription.cs
+++EnumTypeModelDescription.cs
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\modeldescriptions\enumtypemodeldescription.cs
+++EnumValueDescription.cs
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\modeldescriptions\enumvaluedescription.cs
+++IModelDocumentationProvider.cs
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\modeldescriptions\imodeldocumentationprovider.cs
+++KeyValuePairModelDescription.cs
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\modeldescriptions\keyvaluepairmodeldescription.cs
+++ModelDescription.cs
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\modeldescriptions\modeldescription.cs
+++ModelDescriptionGenerator.cs
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\modeldescriptions\modeldescriptiongenerator.cs
+++ModelNameAttribute.cs
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\modeldescriptions\modelnameattribute.cs
+++ModelNameHelper.cs
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\modeldescriptions\modelnamehelper.cs
+++ParameterAnnotation.cs
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\modeldescriptions\parameterannotation.cs
+++ParameterDescription.cs
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\modeldescriptions\parameterdescription.cs
+++SimpleTypeModelDescription.cs
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\modeldescriptions\simpletypemodeldescription.cs
+++HelpPageApiModel.cs
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\models\helppageapimodel.cs
+++HelpPageSampleGenerator.cs
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\samplegeneration\helppagesamplegenerator.cs
+++HelpPageSampleKey.cs
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\samplegeneration\helppagesamplekey.cs
+++ImageSample.cs
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\samplegeneration\imagesample.cs
+++InvalidSample.cs
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\samplegeneration\invalidsample.cs
+++ObjectGenerator.cs
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\samplegeneration\objectgenerator.cs
+++SampleDirection.cs
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\samplegeneration\sampledirection.cs
+++TextSample.cs
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\samplegeneration\textsample.cs
+++Help
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\views\help\
+++DisplayTemplates
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\views\help\displaytemplates\
+++Api.cshtml
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\views\help\api.cshtml
+++ResourceModel.cshtml
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\views\help\resourcemodel.cshtml
+++ApiGroup.cshtml
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\views\help\displaytemplates\apigroup.cshtml
+++CollectionModelDescription.cshtml
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\views\help\displaytemplates\collectionmodeldescription.cshtml
+++ComplexTypeModelDescription.cshtml
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\views\help\displaytemplates\complextypemodeldescription.cshtml
+++DictionaryModelDescription.cshtml
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\views\help\displaytemplates\dictionarymodeldescription.cshtml
+++EnumTypeModelDescription.cshtml
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\views\help\displaytemplates\enumtypemodeldescription.cshtml
+++HelpPageApiModel.cshtml
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\views\help\displaytemplates\helppageapimodel.cshtml
+++ImageSample.cshtml
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\views\help\displaytemplates\imagesample.cshtml
+++InvalidSample.cshtml
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\views\help\displaytemplates\invalidsample.cshtml
+++KeyValuePairModelDescription.cshtml
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\views\help\displaytemplates\keyvaluepairmodeldescription.cshtml
+++ModelDescriptionLink.cshtml
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\views\help\displaytemplates\modeldescriptionlink.cshtml
+++Parameters.cshtml
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\views\help\displaytemplates\parameters.cshtml
+++Samples.cshtml
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\views\help\displaytemplates\samples.cshtml
+++SimpleTypeModelDescription.cshtml
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\views\help\displaytemplates\simpletypemodeldescription.cshtml
+++TextSample.cshtml
+i:{8ced290e-4a0b-4873-ae35-5035dc00b1ab}:d:\all c# code\planproject\planproject\areas\helppage\views\help\displaytemplates\textsample.cshtml
